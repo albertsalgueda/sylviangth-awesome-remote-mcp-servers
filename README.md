@@ -254,7 +254,7 @@ _No entries yet_
 
 #### [Melso](https://docs.melso.ai/mcp/overview)
 
-- **Offers:** OAuth-protected access to Spanish invoices, income, expenses and tax calendars, with tools to record expenses and prepare invoice work. Tax-return approval and filing remain in Melso.
+- **Offers:** OAuth-protected access to Spanish invoices, income, expenses and tax calendars, with tools to record expenses and prepare invoice work. Start a Spanish S.L. incorporation request through MCP; the owner pays and approves in Melso, and professionals complete the legal formation. Tax-return approval and filing remain in Melso.
 - **Access:** Connect to `https://mcp.melso.ai/mcp` via Streamable HTTP and authorize with OAuth. A paid Melso account and appropriate tool access are required.
 
 ### Gaming & Entertainment
